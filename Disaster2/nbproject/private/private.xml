@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/beneficiaryInformation.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/dao/SupplyRequestDao.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/index.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/signup.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/Bean/LoginBean.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/dashboard.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/Bean/SupplyRequestBean.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/trackProgress.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/requestSupply.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/editDistributionProgress.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/dao/LoginDao.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/supplyRequestList.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/dao/BeneficiaryDao.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/SignupServlet.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/registerBeneficiary.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/Bean/BeneficiaryBean.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/SupplyRequestServlet.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/editBeneficiaryInformation.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/dao/DistributionProgressDao.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/web/progressRecordsList.jsp</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/Bean/DistributionProgressBean.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/BeneficiaryRegistrationServlet.java</file>
+            <file>file:/C:/Users/nalom/OneDrive/Documents/CSC584/Disaster2/src/java/servlet/DistributionProgressServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
